@@ -1,7 +1,6 @@
 # Welocome to Film Store 🏬
 
-Film store is a web app build with the latest technology in the industry 
-His iconic UI and inrealistic UX is what he make it the best app 
+Film store is a web app build with the latest technology in the industry His iconic UI and unrealistic UX is what he make it the best app ever 😌.
 
 ## Installation
 
