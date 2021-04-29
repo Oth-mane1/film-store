@@ -5,20 +5,23 @@ His iconic UI and inrealistic UX is what he make it the best app
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install the dependicies.
+Use the package manager [npm](https://www.npmjs.com/) to install the dependencies.
 
-```bash
-pip install
+```npm
+npm install
 ```
 
 ## Usage
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```js
+server: process.env.SERVER,
+    database: process.env.DATABASE, //Update Me
+    user: process.env.USER, //Update Me
+    password: process.env.PASSWORD, //Update Me
+    options: {
+        encrypt: true,
+        enableArithAbort: true
+    }
 ```
 
 ## Contributing
