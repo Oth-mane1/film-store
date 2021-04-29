@@ -10,9 +10,10 @@ Use the package manager [npm](https://www.npmjs.com/) to install the dependencie
 ```npm
 npm install
 ```
+Download the [Movies](https://www.wiseowl.co.uk/sundry/movies-database/) database. 
 
 ## Usage
-
+Update the dbconfig file 
 ```js
 server: process.env.SERVER,
     database: process.env.DATABASE, //Update Me
